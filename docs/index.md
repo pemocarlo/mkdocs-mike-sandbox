@@ -41,7 +41,7 @@ Docker image is available on [GitHub Container Registry](https://github.com/tomk
 - Support for all Azure clouds
 
 And there is more on the way - Check our [backlog](https://github.com/tomkerkhove/promitor/issues)
-and vote for features! This is the last chance!
+and vote for features! This is the last chance! And a new change for v0.2.1
 
 ## Support
 
